@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/huntm/GitHub/4-Week-GD2/GD2_4Week/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/huntm/GitHub/4-Week-GD2/GD2_4Week/Content/Blueprints/BP_RepoTest.uasset"
+				"C:/Users/huntm/GitHub/4-Week-GD2/GD2_4Week/Content/Blueprints/BP_RepoTest.uasset",
+				"C:/Users/huntm/GitHub/4-Week-GD2/GD2_4Week/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/huntm/GitHub/4-Week-GD2/GD2_4Week/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DJ/5UCR8FU7TF41KISIOQL801.uasset",
+				"C:/Users/huntm/GitHub/4-Week-GD2/GD2_4Week/Content/ThirdPerson/Input/IMC_Default.uasset"
 			]
 		}
 	]
